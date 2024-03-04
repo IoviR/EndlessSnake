@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+    font-family: "Pixelify Sans", sans-serif;
+}
+#title{
+    display: block;
+    text-align: center;
+}
+#tutorial{
+    display: block;
+    text-align: center;
+}
+
+#canvaSnake
+{
+    display: block;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+#scor, #punctaj, #hscor, #hscore
+{
+  display: inline-block;
+  margin: auto;
+}
+
+#punctaj, #hscore
+{
+    color: red;
+}
+
+#mijloc
+{
+    text-align: center;
+}
